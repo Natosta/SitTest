@@ -1,0 +1,163 @@
+ Jun 18 10:04:18 2020 notify_disconnect: openvpn_cloud_aioinissaydowa_eu_dynamic_p8681 None
+Thu Jun 18 10:04:18 2020 >>>> {'timestamp': 1592471058, 'state': 'disconnect', 'profile_id': 'openvpn_cloud_aioinissaydowa_eu_dynamic_p8681', 'type': 'PROFILE'}
+Thu Jun 18 10:04:18 2020 **** DISCONNECT openvpn_cloud_aioinissaydowa_eu_dynamic_p8681
+Thu Jun 18 14:04:04 2020 checking if there are any updates...
+Thu Jun 18 14:04:04 2020 no update available
+Thu Jun 18 18:04:12 2020 checking if there are any updates...
+Thu Jun 18 18:04:12 2020 no update available
+Thu Jun 18 22:04:19 2020 checking if there are any updates...
+Thu Jun 18 22:04:19 2020 no update available
+Fri Jun 19 08:51:23 2020 Poll error: Connection timeout
+Fri Jun 19 08:51:25 2020 ************ EXCEPTION TRIGGERED RESTART
+Fri Jun 19 08:51:25 2020 run_client()
+Fri Jun 19 08:51:25 2020 TrackActiveProfiles sid='sess_TrackActiveProfiles_8gYM54Pry7yE8kgb_2'
+Fri Jun 19 08:51:25 2020 checking if there are any updates...
+Fri Jun 19 08:51:25 2020 no update available
+Fri Jun 19 08:51:25 2020 >>>> {'timestamp': 1592553085, 'state': 'add_profile', 'profile_id': 'openvpn_cloud_aioinissaydowa_eu_dynamic_p8681', 'type': 'PROFILE'}
+Fri Jun 19 08:51:25 2020 **** ADD PROFILE openvpn_cloud_aioinissaydowa_eu_dynamic_p8681
+----- NEW INSTANTIATION -----
+Fri Jun 19 10:17:44 2020  TrayApp.main()
+Fri Jun 19 10:17:44 2020 going to enter main UI event loop...
+Fri Jun 19 10:17:44 2020 icon state='disconnected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Fri Jun 19 10:17:44 2020 icon state='connecting' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Fri Jun 19 10:17:44 2020 icon state='connected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Fri Jun 19 10:17:44 2020 icon state='GET_CONFIG' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Fri Jun 19 10:17:44 2020 icon state='TCP_CONNECT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Fri Jun 19 10:17:44 2020 icon state='RESOLVE' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Fri Jun 19 10:17:44 2020 icon state='RSA_SIGN' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Fri Jun 19 10:17:44 2020 icon state='ADD_ROUTES' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Fri Jun 19 10:17:44 2020 icon state='ASSIGN_IP' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Fri Jun 19 10:17:44 2020 icon state='RECONNECTING' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Fri Jun 19 10:17:44 2020 icon state='AUTH' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Fri Jun 19 10:17:44 2020 icon state='WAIT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Fri Jun 19 10:17:44 2020 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Fri Jun 19 10:17:44 2020 loaded resource DLL: 59768832
+Fri Jun 19 10:17:44 2020 run_client()
+Fri Jun 19 10:17:44 2020 TrackActiveProfiles sid='sess_TrackActiveProfiles_nmYerSARJzfAav7x_1'
+Fri Jun 19 10:17:44 2020 checking if there are any updates...
+Fri Jun 19 10:17:44 2020 no update available
+Fri Jun 19 10:17:44 2020 >>>> {'timestamp': 1592558264, 'state': 'add_profile', 'profile_id': 'openvpn_cloud_aioinissaydowa_eu_dynamic_p8681', 'type': 'PROFILE'}
+Fri Jun 19 10:17:44 2020 **** ADD PROFILE openvpn_cloud_aioinissaydowa_eu_dynamic_p8681
+Fri Jun 19 14:17:50 2020 checking if there are any updates...
+Fri Jun 19 14:17:50 2020 no update available
+----- NEW INSTANTIATION -----
+Fri Jun 19 15:03:10 2020  TrayApp.main()
+Fri Jun 19 15:03:10 2020 going to enter main UI event loop...
+Fri Jun 19 15:03:10 2020 icon state='disconnected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Fri Jun 19 15:03:10 2020 icon state='connecting' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Fri Jun 19 15:03:10 2020 icon state='connected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Fri Jun 19 15:03:10 2020 icon state='GET_CONFIG' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Fri Jun 19 15:03:10 2020 icon state='TCP_CONNECT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Fri Jun 19 15:03:10 2020 icon state='RESOLVE' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Fri Jun 19 15:03:10 2020 icon state='RSA_SIGN' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Fri Jun 19 15:03:10 2020 icon state='ADD_ROUTES' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Fri Jun 19 15:03:10 2020 icon state='ASSIGN_IP' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Fri Jun 19 15:03:10 2020 icon state='RECONNECTING' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Fri Jun 19 15:03:10 2020 icon state='AUTH' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Fri Jun 19 15:03:10 2020 icon state='WAIT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Fri Jun 19 15:03:10 2020 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Fri Jun 19 15:03:10 2020 loaded resource DLL: 58785792
+Fri Jun 19 15:03:11 2020 waiting...: ConnectionRefusedError: 10061: No connection could be made because the target machine actively refused it..: tray/trayclient:258 (twisted.internet.error.ConnectionRefusedError)
+Fri Jun 19 15:03:27 2020 run_client()
+Fri Jun 19 15:03:27 2020 TrackActiveProfiles sid='sess_TrackActiveProfiles_h7AgmULagCRilxS8_1'
+Fri Jun 19 15:03:27 2020 checking if there are any updates...
+Fri Jun 19 15:03:27 2020 no update available
+Fri Jun 19 15:03:27 2020 >>>> {'timestamp': 1592575407, 'state': 'add_profile', 'profile_id': 'openvpn_cloud_aioinissaydowa_eu_dynamic_p8681', 'type': 'PROFILE'}
+Fri Jun 19 15:03:27 2020 **** ADD PROFILE openvpn_cloud_aioinissaydowa_eu_dynamic_p8681
+Fri Jun 19 19:03:35 2020 checking if there are any updates...
+Fri Jun 19 19:03:35 2020 no update available
+Fri Jun 19 23:03:37 2020 checking if there are any updates...
+Fri Jun 19 23:03:37 2020 no update available
+Sat Jun 20 03:03:44 2020 checking if there are any updates...
+Sat Jun 20 03:03:44 2020 no update available
+Sat Jun 20 07:03:52 2020 checking if there are any updates...
+Sat Jun 20 07:03:52 2020 no update available
+Sat Jun 20 11:04:00 2020 checking if there are any updates...
+Sat Jun 20 11:04:00 2020 no update available
+Sat Jun 20 15:04:01 2020 checking if there are any updates...
+Sat Jun 20 15:04:01 2020 no update available
+Sat Jun 20 19:04:09 2020 checking if there are any updates...
+Sat Jun 20 19:04:09 2020 no update available
+Sat Jun 20 23:04:15 2020 checking if there are any updates...
+Sat Jun 20 23:04:15 2020 no update available
+Sun Jun 21 03:04:24 2020 checking if there are any updates...
+Sun Jun 21 03:04:24 2020 no update available
+Sun Jun 21 07:04:33 2020 checking if there are any updates...
+Sun Jun 21 07:04:33 2020 no update available
+Sun Jun 21 11:04:42 2020 checking if there are any updates...
+Sun Jun 21 11:04:42 2020 no update available
+Sun Jun 21 15:04:52 2020 checking if there are any updates...
+Sun Jun 21 15:04:52 2020 no update available
+Sun Jun 21 19:05:01 2020 checking if there are any updates...
+Sun Jun 21 19:05:01 2020 no update available
+Sun Jun 21 23:05:10 2020 checking if there are any updates...
+Sun Jun 21 23:05:10 2020 no update available
+Mon Jun 22 03:05:19 2020 checking if there are any updates...
+Mon Jun 22 03:05:19 2020 no update available
+Mon Jun 22 07:05:29 2020 checking if there are any updates...
+Mon Jun 22 07:05:29 2020 no update available
+Mon Jun 22 11:05:39 2020 checking if there are any updates...
+Mon Jun 22 11:05:39 2020 no update available
+Mon Jun 22 15:05:48 2020 checking if there are any updates...
+Mon Jun 22 15:05:48 2020 no update available
+Mon Jun 22 19:05:58 2020 checking if there are any updates...
+Mon Jun 22 19:05:58 2020 no update available
+Mon Jun 22 23:06:07 2020 checking if there are any updates...
+Mon Jun 22 23:06:07 2020 no update available
+Tue Jun 23 03:06:07 2020 checking if there are any updates...
+Tue Jun 23 03:06:07 2020 no update available
+Tue Jun 23 07:06:07 2020 checking if there are any updates...
+Tue Jun 23 07:06:07 2020 no update available
+Tue Jun 23 11:06:08 2020 checking if there are any updates...
+Tue Jun 23 11:06:08 2020 no update available
+Tue Jun 23 15:06:17 2020 checking if there are any updates...
+Tue Jun 23 15:06:17 2020 no update available
+Tue Jun 23 19:06:26 2020 checking if there are any updates...
+Tue Jun 23 19:06:26 2020 no update available
+Tue Jun 23 23:06:35 2020 checking if there are any updates...
+Tue Jun 23 23:06:35 2020 no update available
+Wed Jun 24 03:06:36 2020 checking if there are any updates...
+Wed Jun 24 03:06:36 2020 no update available
+Wed Jun 24 07:06:36 2020 checking if there are any updates...
+Wed Jun 24 07:06:36 2020 no update available
+----- NEW INSTANTIATION -----
+Wed Jun 24 09:00:13 2020  TrayApp.main()
+Wed Jun 24 09:00:13 2020 going to enter main UI event loop...
+Wed Jun 24 09:00:13 2020 icon state='disconnected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-disconnected.ico'
+Wed Jun 24 09:00:13 2020 icon state='connecting' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connecting.ico'
+Wed Jun 24 09:00:13 2020 icon state='connected' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-connected.ico'
+Wed Jun 24 09:00:13 2020 icon state='GET_CONFIG' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-get-config.ico'
+Wed Jun 24 09:00:13 2020 icon state='TCP_CONNECT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-tcp-connect.ico'
+Wed Jun 24 09:00:13 2020 icon state='RESOLVE' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-resolve.ico'
+Wed Jun 24 09:00:13 2020 icon state='RSA_SIGN' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-rsa-sign.ico'
+Wed Jun 24 09:00:13 2020 icon state='ADD_ROUTES' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-add-routes.ico'
+Wed Jun 24 09:00:13 2020 icon state='ASSIGN_IP' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-assign-ip.ico'
+Wed Jun 24 09:00:13 2020 icon state='RECONNECTING' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-reconnecting.ico'
+Wed Jun 24 09:00:13 2020 icon state='AUTH' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-auth.ico'
+Wed Jun 24 09:00:13 2020 icon state='WAIT' file=u'C:\\Program Files (x86)\\OpenVPN Technologies\\OpenVPN Client\\client\\images\\icon-wait.ico'
+Wed Jun 24 09:00:13 2020 trying to load DLL: C:\Program Files (x86)\OpenVPN Technologies\OpenVPN Client\core\ovpntray.dll
+Wed Jun 24 09:00:13 2020 loaded resource DLL: 58720256
+Wed Jun 24 09:00:14 2020 waiting...: ConnectionRefusedError: 10061: No connection could be made because the target machine actively refused it..: tray/trayclient:258 (twisted.internet.error.ConnectionRefusedError)
+Wed Jun 24 09:00:28 2020 run_client()
+Wed Jun 24 09:00:28 2020 TrackActiveProfiles sid='sess_TrackActiveProfiles_jIzKASOjynl59vOw_1'
+Wed Jun 24 09:00:28 2020 checking if there are any updates...
+Wed Jun 24 09:00:28 2020 no update available
+Wed Jun 24 09:00:28 2020 >>>> {'timestamp': 1592985628, 'state': 'add_profile', 'profile_id': 'openvpn_cloud_aioinissaydowa_eu_dynamic_p8681', 'type': 'PROFILE'}
+Wed Jun 24 09:00:28 2020 **** ADD PROFILE openvpn_cloud_aioinissaydowa_eu_dynamic_p8681
+Wed Jun 24 11:59:54 2020 >>>> {'cookie': 'TRAY_CLIENT_QW5kZXJzb24uRWd3dXJ1Z3d1_q8cEs98C', 'state': 'connect', 'profile_id': 'openvpn_cloud_aioinissaydowa_eu_dynamic_p8681', 'type': 'PROFILE', 'timestamp': 1592996394}
+Wed Jun 24 11:59:54 2020 **** CONNECT openvpn_cloud_aioinissaydowa_eu_dynamic_p8681 TRAY_CLIENT_QW5kZXJzb24uRWd3dXJ1Z3d1_q8cEs98C
+Wed Jun 24 11:59:54 2020 going to ConnectActive
+Wed Jun 24 11:59:54 2020 ConnectActive: sess_openvpn_cloud_aioinissaydowa_eu_dynamic_p8681_JRr9yvhDU5tVwW8K_2
+Wed Jun 24 11:59:54 2020 generating sub_poll parameters
+Wed Jun 24 11:59:54 2020 track_profile_connect: done
+Wed Jun 24 11:59:54 2020 'openvpn_cloud_aioinissaydowa_eu_dynamic_p8681' -> {'status': 'need', 'timestamp': 1592996394, 'need': ['username', 'password'], 'type': 'PASSWORD', 'auth_type': 'Dynamic'}
+Wed Jun 24 12:16:10 2020 TrayClient.disconnect False
+Wed Jun 24 12:16:10 2020 Poll error: Connection timeout
+Wed Jun 24 12:16:10 2020 sub_poll: error on openvpn_cloud_aioinissaydowa_eu_dynamic_p8681: SESSION_ID_NOT_FOUND: OpenVPNClientSet: 'poll' session ID 'sess_openvpn_cloud_aioinissaydowa_eu_dynamic_p8681_JRr9yvhDU5tVwW8K_2' not found (9000)
+Wed Jun 24 12:16:10 2020 sub_poll: closing out session
+Wed Jun 24 12:16:12 2020 ************ EXCEPTION TRIGGERED RESTART
+Wed Jun 24 12:16:12 2020 run_client()
+Wed Jun 24 12:16:12 2020 TrackActiveProfiles sid='sess_TrackActiveProfiles_pgiVXgd2uy0KWz8j_2'
+Wed Jun 24 12:16:12 2020 >>>> {'timestamp': 1592997372, 'state': 'add_profile', 'profile_id': 'openvpn_cloud_aioinissaydowa_eu_dynamic_p8681', 'type': 'PROFILE'}
+Wed Jun 24 12:16:12 2020 **** ADD PROFILE openvpn_cloud_aioinissaydowa_eu_dynamic_p8681
+Wed Jun 24 12:29:04 2020 NIM_ADD failed: (-2147467259, 'Shell_NotifyIcon', 'Unspecified error'): win/ovpntray:169 (pywintypes.error)
